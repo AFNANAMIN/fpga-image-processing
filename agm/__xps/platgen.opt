@@ -1,0 +1,2 @@
+ -p xc7a100tcsg324-3 -lang verilog$(PROJECT_SEARCHPATHOPT) $(GLOBAL_SEARCHPATHOPT) -toplevel no -ti agm_i -msg __xps/ise/xmsgprops.lst
+

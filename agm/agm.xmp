@@ -1,0 +1,26 @@
+#Please do not modify this file by hand
+XmpVersion: 14.7
+VerMgmt: 
+IntStyle: default
+Flow: ise
+MHS File: agm.mhs
+Architecture: artix7
+Device: xc7a100t
+Package: csg324
+SpeedGrade: -3
+UserCmd1: 
+UserCmd1Type: 0
+UserCmd2: 
+UserCmd2Type: 0
+GenSimTB: 0
+SdkExportBmmBit: 1
+SdkExportDir: SDK/SDK_Export
+InsertNoPads: 1
+WarnForEAArch: 1
+HdlLang: verilog
+SimModel: BEHAVIORAL
+ExternalMemSim: 0
+UcfFile: data/agm.ucf
+EnableParTimingError: 1
+ShowLicenseDialog: 1
+BInfo: 

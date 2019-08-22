@@ -1,0 +1,3 @@
+verilog work "ipcore_dir/cmt5.v"
+verilog work "clocking_mod_mux.v"
+verilog work "cmt_topmodule.v"

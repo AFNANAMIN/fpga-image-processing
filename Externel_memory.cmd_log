@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj cmt4 -o "C:/Users/AFNAN/Desktop/project backup (2) - Copy/project backup/cmt4/Externel_memory.tfi" -lib work "C:/Users/AFNAN/Desktop/project backup (2) - Copy/project backup/cmt4//Externel_memory.v" -module Externel_memory -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

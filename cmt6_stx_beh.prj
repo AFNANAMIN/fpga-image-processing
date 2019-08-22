@@ -1,0 +1,4 @@
+verilog isim_temp "ipcore_dir/cmt5.v"
+verilog isim_temp "muxex.v"
+verilog isim_temp "cmt6.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

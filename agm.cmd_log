@@ -1,0 +1,2 @@
+vhdtdtfi -lang verilog -prj cmt4 -o "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/agm.tfi" -lib work "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4//agm.v" -module agm -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj cmt4 -o "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/agm.tfi" -lib work "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4//agm.v" -module agm -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

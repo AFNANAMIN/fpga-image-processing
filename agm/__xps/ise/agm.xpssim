@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+<Simulation_deps>
+
+  <Version XPSPNVER="1.0" EDKVER="14.7" />
+  <FPGA family="artix7" device="xc7a100t" package="csg324" speedgrade="-3" />
+  <File Type="MHS" URL="../../agm.mhs" />
+
+
+</Simulation_deps>

@@ -1,0 +1,57 @@
+=====================
+Opened log file
+=====================
+Created pcores directory
+=====================
+Opened log file
+=====================
+Xilinx Platform Studio (XPS)
+Xilinx EDK 14.7 Build EDK_P.20131013
+
+Xilinx EDK 14.7 Build EDK_P.20131013
+
+Copied C:/Xilinx/14.7/ISE_DS/EDK/data/xflow/bitgen.ut to etc directory
+Copied file C:/Xilinx/14.7/ISE_DS/EDK/data/xflow/fast_runtime_artix7.opt to etc
+directory
+
+Overriding IP level properties ...
+
+Computing clock values...
+
+Performing IP level DRCs on properties...
+
+Running DRC Tcl procedures for OPTION IPLEVEL_DRC_PROC...
+
+Checking platform address map ...
+Created backup of etc/bitgen.ut to etc/bitgen.ut.virtex5
+Copied C:/Xilinx/14.7/ISE_DS/EDK/data/xflow/bitgen.ut to etc directory
+Created backup of etc/fast_runtime.opt to etc/fast_runtime.opt.virtex5
+Copied file C:/Xilinx/14.7/ISE_DS/EDK/data/xflow/fast_runtime_artix7.opt to etc
+directory
+No changes to be saved in MHS file
+Saved project XMP file
+Saved Make file
+=====================
+Opened log file
+=====================
+=====================
+Opened log file
+=====================
+Xilinx Platform Studio (XPS)
+Xilinx EDK 14.7 Build EDK_P.20131013
+
+Xilinx EDK 14.7 Build EDK_P.20131013
+
+
+Overriding IP level properties ...
+
+Computing clock values...
+
+Performing IP level DRCs on properties...
+
+Running DRC Tcl procedures for OPTION IPLEVEL_DRC_PROC...
+
+Checking platform address map ...
+No changes to be saved in MHS file
+Saved project XMP file
+Saved Make file

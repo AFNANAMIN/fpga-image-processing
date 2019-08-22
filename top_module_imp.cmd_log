@@ -1,0 +1,182 @@
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+par -w -intstyle ise -ol high -mt off top_module_imp_map.ncd top_module_imp.ncd top_module_imp.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_module_imp.twx top_module_imp.ncd -o top_module_imp.twr top_module_imp.pcf 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+par -w -intstyle ise -ol high -mt off top_module_imp_map.ncd top_module_imp.ncd top_module_imp.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_module_imp.twx top_module_imp.ncd -o top_module_imp.twr top_module_imp.pcf 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+par -w -intstyle ise -ol high -mt off top_module_imp_map.ncd top_module_imp.ncd top_module_imp.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_module_imp.twx top_module_imp.ncd -o top_module_imp.twr top_module_imp.pcf 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+par -w -intstyle ise -ol high -mt off top_module_imp_map.ncd top_module_imp.ncd top_module_imp.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_module_imp.twx top_module_imp.ncd -o top_module_imp.twr top_module_imp.pcf 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+par -w -intstyle ise -ol high -mt off top_module_imp_map.ncd top_module_imp.ncd top_module_imp.pcf 
+par -w -intstyle ise -ol high -mt off top_module_imp_map.ncd top_module_imp.ncd top_module_imp.pcf 
+par -w -intstyle ise -ol high -mt off top_module_imp_map.ncd top_module_imp.ncd top_module_imp.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_module_imp.twx top_module_imp.ncd -o top_module_imp.twr top_module_imp.pcf 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 top_module_imp.ngc top_module_imp.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+par -w -intstyle ise -ol high -mt off top_module_imp_map.ncd top_module_imp.ncd top_module_imp.pcf 
+par -w -intstyle ise -ol high -mt off top_module_imp_map.ncd top_module_imp.ncd top_module_imp.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_module_imp.twx top_module_imp.ncd -o top_module_imp.twr top_module_imp.pcf 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/project backup/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/project backup/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 "top_module_imp.ngc" top_module_imp.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+par -w -intstyle ise -ol high -mt off top_module_imp_map.ncd top_module_imp.ncd top_module_imp.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_module_imp.twx top_module_imp.ncd -o top_module_imp.twr top_module_imp.pcf 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/project backup/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/project backup/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/project backup/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/project backup/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/project backup/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/project backup/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/project backup/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/project backup/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/project backup/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/project backup/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 "top_module_imp.ngc" top_module_imp.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+par -w -intstyle ise -ol high -mt off top_module_imp_map.ncd top_module_imp.ncd top_module_imp.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_module_imp.twx top_module_imp.ncd -o top_module_imp.twr top_module_imp.pcf 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/project backup/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/project backup/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 "top_module_imp.ngc" top_module_imp.ngd  
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 "top_module_imp.ngc" top_module_imp.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+par -w -intstyle ise -ol high -mt off top_module_imp_map.ncd top_module_imp.ncd top_module_imp.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_module_imp.twx top_module_imp.ncd -o top_module_imp.twr top_module_imp.pcf 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 "top_module_imp.ngc" top_module_imp.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/top_module_imp.syr" 
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 "top_module_imp.ngc" top_module_imp.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/top_module_imp.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 "top_module_imp.ngc" top_module_imp.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/top_module_imp.xst" -ofn "C:/Users/cl/Desktop/project backup (2)/project backup/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 "top_module_imp.ngc" top_module_imp.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+par -w -intstyle ise -ol high -mt off top_module_imp_map.ncd top_module_imp.ncd top_module_imp.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_module_imp.twx top_module_imp.ncd -o top_module_imp.twr top_module_imp.pcf 
+xst -intstyle ise -ifn "C:/Users/AFNAN/Desktop/project backup (2) - Copy/project backup/cmt4/top_module_imp.xst" -ofn "C:/Users/AFNAN/Desktop/project backup (2) - Copy/project backup/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 "top_module_imp.ngc" top_module_imp.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+vhdtdtfi -lang verilog -prj cmt4 -o "C:/Users/AFNAN/Desktop/project backup (2) - Copy/project backup/cmt4/top_module_imp.tfi" -lib work "C:/Users/AFNAN/Desktop/project backup (2) - Copy/project backup/cmt4//top_mod_imp.v" -module top_module_imp -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+par -w -intstyle ise -ol high -mt off top_module_imp_map.ncd top_module_imp.ncd top_module_imp.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_module_imp.twx top_module_imp.ncd -o top_module_imp.twr top_module_imp.pcf 
+xst -intstyle ise -ifn "C:/Users/AFNAN/Desktop/project backup (2) - Copy/project backup/cmt4/top_module_imp.xst" -ofn "C:/Users/AFNAN/Desktop/project backup (2) - Copy/project backup/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 "top_module_imp.ngc" top_module_imp.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+par -w -intstyle ise -ol high -mt off top_module_imp_map.ncd top_module_imp.ncd top_module_imp.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_module_imp.twx top_module_imp.ncd -o top_module_imp.twr top_module_imp.pcf 
+xst -intstyle ise -ifn "C:/Users/AFNAN/Desktop/project backup (2) - Copy/project backup/cmt4/top_module_imp.xst" -ofn "C:/Users/AFNAN/Desktop/project backup (2) - Copy/project backup/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 "top_module_imp.ngc" top_module_imp.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+xst -intstyle ise -ifn "C:/Users/AFNAN/Desktop/project backup (2) - Copy/project backup/cmt4/top_module_imp.xst" -ofn "C:/Users/AFNAN/Desktop/project backup (2) - Copy/project backup/cmt4/top_module_imp.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 "top_module_imp.ngc" top_module_imp.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -r -nt timestamp -i -p xc7a100t-csg324-3 "top_module_imp.ngc" top_module_imp.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 

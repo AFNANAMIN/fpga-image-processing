@@ -1,0 +1,20 @@
+
+
+
+// Instantiate the module
+agm instance_name (
+    .en_rd(en_rd), 
+    .en_wr(en_wr), 
+    .reset_rd(reset_rd), 
+    .reset_wr(reset_wr), 
+    .clk_rd(clk_rd), 
+    .clk_wr(clk_wr), 
+    .W_BRAM_ADDR(W_BRAM_ADDR), 
+    .R_BRAM_ADDR(R_BRAM_ADDR), 
+    .pause(pause), 
+    .wea(wea), 
+    .sel(sel), 
+    .start(start)
+    );
+
+

@@ -1,0 +1,168 @@
+WARNING:sim:922 - Could not find a default part for [qartix7][xq7a100t][cs324]
+WARNING:sim:922 - Could not find a default part for [qartix7][xq7a100t][fg484]
+WARNING:sim:922 - Could not find a default part for [qartix7][xq7a200t][rb484]
+WARNING:sim:922 - Could not find a default part for [qartix7][xq7a200t][rb676]
+WARNING:sim:922 - Could not find a default part for [qartix7][xq7a200t][rs484]
+ERROR:sim:942 - Failed to find a part for: qartix7
+WARNING:sim:922 - Could not find a default part for [qkintex7][xq7k325t][rf676]
+WARNING:sim:922 - Could not find a default part for [qkintex7][xq7k325t][rf900]
+WARNING:sim:922 - Could not find a default part for [qkintex7][xq7k410t][rf676]
+WARNING:sim:922 - Could not find a default part for [qkintex7][xq7k410t][rf900]
+ERROR:sim:942 - Failed to find a part for: qkintex7
+WARNING:sim:922 - Could not find a default part for
+   [qrvirtex4][xqr4vsx55][cf1140]
+WARNING:sim:922 - Could not find a default part for
+   [qrvirtex4][xqr4vfx60][cf1144]
+WARNING:sim:922 - Could not find a default part for
+   [qrvirtex4][xqr4vfx140][cf1509]
+WARNING:sim:922 - Could not find a default part for
+   [qrvirtex4][xqr4vlx200][cf1509]
+ERROR:sim:942 - Failed to find a part for: qrvirtex4
+WARNING:sim:922 - Could not find a default part for [qspartan6][xq6slx75][cs484]
+WARNING:sim:922 - Could not find a default part for
+   [qspartan6][xq6slx75][csg484]
+WARNING:sim:922 - Could not find a default part for [qspartan6][xq6slx75][fg484]
+WARNING:sim:922 - Could not find a default part for
+   [qspartan6][xq6slx75t][cs484]
+WARNING:sim:922 - Could not find a default part for
+   [qspartan6][xq6slx75t][csg484]
+WARNING:sim:922 - Could not find a default part for
+   [qspartan6][xq6slx75t][fg484]
+WARNING:sim:922 - Could not find a default part for
+   [qspartan6][xq6slx75t][fg676]
+WARNING:sim:922 - Could not find a default part for
+   [qspartan6][xq6slx75t][fgg676]
+WARNING:sim:922 - Could not find a default part for
+   [qspartan6][xq6slx150][cs484]
+WARNING:sim:922 - Could not find a default part for
+   [qspartan6][xq6slx150][csg484]
+WARNING:sim:922 - Could not find a default part for
+   [qspartan6][xq6slx150][fg484]
+WARNING:sim:922 - Could not find a default part for
+   [qspartan6][xq6slx150t][cs484]
+WARNING:sim:922 - Could not find a default part for
+   [qspartan6][xq6slx150t][csg484]
+WARNING:sim:922 - Could not find a default part for
+   [qspartan6][xq6slx150t][fg484]
+WARNING:sim:922 - Could not find a default part for
+   [qspartan6][xq6slx150t][fg676]
+WARNING:sim:922 - Could not find a default part for
+   [qspartan6][xq6slx150t][fgg676]
+ERROR:sim:942 - Failed to find a part for: qspartan6
+WARNING:sim:922 - Could not find a default part for
+   [qspartan6l][xq6slx75l][cs484]
+WARNING:sim:922 - Could not find a default part for
+   [qspartan6l][xq6slx75l][csg484]
+WARNING:sim:922 - Could not find a default part for
+   [qspartan6l][xq6slx75l][fg484]
+WARNING:sim:922 - Could not find a default part for
+   [qspartan6l][xq6slx150l][cs484]
+WARNING:sim:922 - Could not find a default part for
+   [qspartan6l][xq6slx150l][csg484]
+WARNING:sim:922 - Could not find a default part for
+   [qspartan6l][xq6slx150l][fg484]
+ERROR:sim:942 - Failed to find a part for: qspartan6l
+WARNING:sim:922 - Could not find a default part for [qvirtex4][xq4vlx25][ff668]
+WARNING:sim:922 - Could not find a default part for [qvirtex4][xq4vlx25][sf363]
+WARNING:sim:922 - Could not find a default part for [qvirtex4][xq4vlx40][ff668]
+WARNING:sim:922 - Could not find a default part for [qvirtex4][xq4vsx55][ff1148]
+WARNING:sim:922 - Could not find a default part for [qvirtex4][xq4vfx60][ef672]
+WARNING:sim:922 - Could not find a default part for [qvirtex4][xq4vlx60][ff1148]
+WARNING:sim:922 - Could not find a default part for [qvirtex4][xq4vlx60][ff668]
+WARNING:sim:922 - Could not find a default part for [qvirtex4][xq4vlx60][ef668]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex4][xq4vfx100][ff1152]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex4][xq4vlx100][ff1148]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex4][xq4vlx160][ff1148]
+ERROR:sim:942 - Failed to find a part for: qvirtex4
+WARNING:sim:922 - Could not find a default part for [qvirtex5][xq5vlx30t][ff323]
+WARNING:sim:922 - Could not find a default part for [qvirtex5][xq5vsx50t][ef665]
+WARNING:sim:922 - Could not find a default part for [qvirtex5][xq5vfx70t][ef665]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex5][xq5vfx70t][ef1136]
+WARNING:sim:922 - Could not find a default part for [qvirtex5][xq5vlx85][ef676]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex5][xq5vsx95t][ef1136]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex5][xq5vfx100t][ef1136]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex5][xq5vfx100t][ef1738]
+WARNING:sim:922 - Could not find a default part for [qvirtex5][xq5vlx110][ef676]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex5][xq5vlx110][ef1153]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex5][xq5vlx110t][ef1136]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex5][xq5vfx130t][ef1738]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex5][xq5vlx155t][ef1136]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex5][xq5vfx200t][ff1738]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex5][xq5vlx220t][ef1738]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex5][xq5vsx240t][ff1738]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex5][xq5vlx330t][ef1738]
+ERROR:sim:942 - Failed to find a part for: qvirtex5
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex6][xq6vlx130t][rf784]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex6][xq6vlx130t][rf1156]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex6][xq6vlx130t][ffg1156]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex6][xq6vlx240t][rf784]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex6][xq6vlx240t][rf1156]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex6][xq6vlx240t][ffg1156]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex6][xq6vlx240t][rf1759]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex6][xq6vsx315t][rf1156]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex6][xq6vsx315t][ffg1156]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex6][xq6vsx315t][rf1759]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex6][xq6vsx475t][ffg1156]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex6][xq6vsx475t][rf1156]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex6][xq6vsx475t][rf1759]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex6][xq6vlx550t][rf1759]
+ERROR:sim:942 - Failed to find a part for: qvirtex6
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex7][xq7vx330t][rf1157]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex7][xq7vx330t][rf1761]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex7][xq7vx485t][rf1761]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex7][xq7vx485t][rf1930]
+WARNING:sim:922 - Could not find a default part for [qvirtex7][xq7v585t][rf1157]
+WARNING:sim:922 - Could not find a default part for [qvirtex7][xq7v585t][rf1761]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex7][xq7vx690t][rf1761]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex7][xq7vx690t][rf1930]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex7][xq7vx690t][rf1157]
+WARNING:sim:922 - Could not find a default part for
+   [qvirtex7][xq7vx980t][rf1930]
+ERROR:sim:942 - Failed to find a part for: qvirtex7
+WARNING:sim:922 - Could not find a default part for [qzynq][xq7z020][cl400]
+WARNING:sim:922 - Could not find a default part for [qzynq][xq7z020][cl484]
+WARNING:sim:922 - Could not find a default part for [qzynq][xq7z030][rf676]
+WARNING:sim:922 - Could not find a default part for [qzynq][xq7z030][rb484]
+WARNING:sim:922 - Could not find a default part for [qzynq][xq7z045][rf676]
+ERROR:sim:942 - Failed to find a part for: qzynq
+INFO:sim:172 - Generating IP...
+Applying current project options...
+Finished applying current project options.
+Cancelled executing Tcl generator.
+Wrote CGP file for project 'bram18'.

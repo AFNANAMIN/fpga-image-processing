@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="751" delta="old" >"C:\Users\AFNAN\Desktop\project backup (2) - Copy\project backup\cmt4\top_mod_imp.v" Line 30: Redeclaration of ansi port <arg fmt="%s" index="1">out1</arg> is not allowed
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\AFNAN\Desktop\project backup (2) - Copy\project backup\cmt4\agm.v" Line 39: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">9</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Users\AFNAN\Desktop\project backup (2) - Copy\project backup\cmt4\agm.v" Line 55: Result of <arg fmt="%d" index="1">10</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">9</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Users\AFNAN\Desktop\project backup (2) - Copy\project backup\cmt4\top_mod_imp.v" Line 60: Assignment to <arg fmt="%s" index="1">pause</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Users\AFNAN\Desktop\project backup (2) - Copy\project backup\cmt4\ipcore_dir\cmt5.v" Line 137: Assignment to <arg fmt="%s" index="1">clkfboutb_unused</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Users\AFNAN\Desktop\project backup (2) - Copy\project backup\cmt4\ipcore_dir\cmt5.v" Line 139: Assignment to <arg fmt="%s" index="1">clkout0b_unused</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Users\AFNAN\Desktop\project backup (2) - Copy\project backup\cmt4\ipcore_dir\cmt5.v" Line 141: Assignment to <arg fmt="%s" index="1">clkout1b_unused</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Users\AFNAN\Desktop\project backup (2) - Copy\project backup\cmt4\ipcore_dir\cmt5.v" Line 143: Assignment to <arg fmt="%s" index="1">clkout2b_unused</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Users\AFNAN\Desktop\project backup (2) - Copy\project backup\cmt4\ipcore_dir\cmt5.v" Line 144: Assignment to <arg fmt="%s" index="1">clkout3_unused</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Users\AFNAN\Desktop\project backup (2) - Copy\project backup\cmt4\ipcore_dir\cmt5.v" Line 145: Assignment to <arg fmt="%s" index="1">clkout3b_unused</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Users\AFNAN\Desktop\project backup (2) - Copy\project backup\cmt4\ipcore_dir\cmt5.v" Line 146: Assignment to <arg fmt="%s" index="1">clkout4_unused</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Users\AFNAN\Desktop\project backup (2) - Copy\project backup\cmt4\ipcore_dir\cmt5.v" Line 147: Assignment to <arg fmt="%s" index="1">clkout5_unused</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Users\AFNAN\Desktop\project backup (2) - Copy\project backup\cmt4\ipcore_dir\cmt5.v" Line 148: Assignment to <arg fmt="%s" index="1">clkout6_unused</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Users\AFNAN\Desktop\project backup (2) - Copy\project backup\cmt4\ipcore_dir\cmt5.v" Line 160: Assignment to <arg fmt="%s" index="1">do_unused</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Users\AFNAN\Desktop\project backup (2) - Copy\project backup\cmt4\ipcore_dir\cmt5.v" Line 161: Assignment to <arg fmt="%s" index="1">drdy_unused</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Users\AFNAN\Desktop\project backup (2) - Copy\project backup\cmt4\ipcore_dir\cmt5.v" Line 167: Assignment to <arg fmt="%s" index="1">psdone_unused</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Users\AFNAN\Desktop\project backup (2) - Copy\project backup\cmt4\ipcore_dir\cmt5.v" Line 170: Assignment to <arg fmt="%s" index="1">clkinstopped_unused</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Users\AFNAN\Desktop\project backup (2) - Copy\project backup\cmt4\ipcore_dir\cmt5.v" Line 171: Assignment to <arg fmt="%s" index="1">clkfbstopped_unused</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Users\AFNAN\Desktop\project backup (2) - Copy\project backup\cmt4\cmt_topmodule.v" Line 45: Assignment to <arg fmt="%s" index="1">LOCKED</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Users\AFNAN\Desktop\project backup (2) - Copy\project backup\cmt4\top_mod_imp.v" Line 83: Assignment to <arg fmt="%s" index="1">complete</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"C:\Users\AFNAN\Desktop\project backup (2) - Copy\project backup\cmt4\ipcore_dir\bram18.v" Line 39: Empty module &lt;<arg fmt="%s" index="1">bram18</arg>&gt; remains a black box.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Users\AFNAN\Desktop\project backup (2) - Copy\project backup\cmt4\top_mod_imp.v</arg>&quot; line <arg fmt="%s" index="2">51</arg>: Output port &lt;<arg fmt="%s" index="3">pause</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">agm_inst</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Users\AFNAN\Desktop\project backup (2) - Copy\project backup\cmt4\top_mod_imp.v</arg>&quot; line <arg fmt="%s" index="2">76</arg>: Output port &lt;<arg fmt="%s" index="3">complete</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">cm_inst</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Users\AFNAN\Desktop\project backup (2) - Copy\project backup\cmt4\cmt_topmodule.v</arg>&quot; line <arg fmt="%s" index="2">38</arg>: Output port &lt;<arg fmt="%s" index="3">LOCKED</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">uut</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="old" > FFs/Latches &lt;<arg fmt="%s" index="1">write_count</arg>&lt;<arg fmt="%d" index="2">1</arg>:<arg fmt="%d" index="3">1</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">CM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="old" > FFs/Latches &lt;<arg fmt="%s" index="1">write_count</arg>&lt;<arg fmt="%d" index="2">1</arg>:<arg fmt="%d" index="3">1</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">CM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">write_count</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">cm_inst</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">start_1</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">agm_inst</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">start_2</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">agm_inst</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">read_count_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">cm_inst</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">read_count_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">cm_inst</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">read_count_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">read_count_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">CM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">start_1</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">agm</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">start_2</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">agm</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">write_count</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">CM</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">i_9</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">agm</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">22 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;i_10&gt; &lt;i_11&gt; &lt;i_12&gt; &lt;i_13&gt; &lt;i_14&gt; &lt;i_15&gt; &lt;i_16&gt; &lt;i_17&gt; &lt;i_18&gt; &lt;i_19&gt; &lt;i_20&gt; &lt;i_21&gt; &lt;i_22&gt; &lt;i_23&gt; &lt;i_24&gt; &lt;i_25&gt; &lt;i_26&gt; &lt;i_27&gt; &lt;i_28&gt; &lt;i_29&gt; &lt;i_30&gt; &lt;i_31&gt; </arg>
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">agm_inst/count_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_module_imp</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">agm_inst/count_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_module_imp</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">agm_inst/count_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_module_imp</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">agm_inst/count_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_module_imp</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">agm_inst/count_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_module_imp</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">agm_inst/count_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_module_imp</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">agm_inst/count_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_module_imp</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">agm_inst/count_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_module_imp</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">agm_inst/count_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_module_imp</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">cm_inst/complete</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_module_imp</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">agm_inst/sel_2</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">top_module_imp</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">agm_inst/sel_1</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">top_module_imp</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">agm_inst/sel_0</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">top_module_imp</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">agm_inst/i_9</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">top_module_imp</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+</messages>

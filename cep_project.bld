@@ -1,0 +1,52 @@
+Release 14.7 ngdbuild P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Command Line: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\ngdbuild.exe
+-intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3
+cep_project.ngc cep_project.ngd
+
+Reading NGO file "C:/Users/cl/Desktop/bo18/cmt4/cep_project.ngc" ...
+Loading design module "ipcore_dir/bram18.ngc"...
+Gathering constraint information from source properties...
+Done.
+INFO:NgdBuild:889 - Pad net 'CLK' is not connected to an external port in this
+   design.  A new port 'CLK' has been added and is connected to this signal.
+
+Resolving constraint associations...
+Checking Constraint Associations...
+Done...
+
+Checking expanded design ...
+ERROR:NgdBuild:455 - logical net 'CLK' has multiple driver(s):
+     pin O on block clk_inst/CLK_INV_0 with type INV,
+     pin PAD on block CLK with type PAD
+ERROR:NgdBuild:462 - input pad net 'CLK' drives multiple buffers:
+     pin I on block top_inst/cmt_topmodule_inst/uut/clkin1_buf with type IBUFG,
+     pin I on block clk_inst/CLK_INV_0 with type INV
+ERROR:NgdBuild:925 - input net 'CLK' is connected to the incorrect side of
+   buffer(s):
+     pin O on block clk_inst/CLK_INV_0 with type INV
+WARNING:NgdBuild:478 - clock net top_inst/cmt_topmodule_inst/CLK_OUT2 with clock
+   driver top_inst/cmt_topmodule_inst/uut/clkout2_buf drives no clock pins
+WARNING:NgdBuild:478 - clock net top_inst/cmt_topmodule_inst/CLK_OUT3 with clock
+   driver top_inst/cmt_topmodule_inst/uut/clkout3_buf drives no clock pins
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+NGDBUILD Design Results Summary:
+  Number of errors:     3
+  Number of warnings:   2
+
+Total memory usage is 231972 kilobytes
+
+Total REAL time to NGDBUILD completion:  8 sec
+Total CPU time to NGDBUILD completion:   8 sec
+
+One or more errors were found during NGDBUILD.  No NGD file will be written.
+
+Writing NGDBUILD log file "cep_project.bld"...

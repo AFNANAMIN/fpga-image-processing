@@ -1,0 +1,548 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.16 secs
+ 
+--> Parameter xsthdpdir set to xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.16 secs
+ 
+--> Reading design: cep_project.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : "cep_project.prj"
+Ignore Synthesis Constraint File   : NO
+
+---- Target Parameters
+Output File Name                   : "cep_project"
+Output Format                      : NGC
+Target Device                      : xc7a100t-3-csg324
+
+---- Source Options
+Top Module Name                    : cep_project
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+Safe Implementation                : No
+FSM Style                          : LUT
+RAM Extraction                     : Yes
+RAM Style                          : Auto
+ROM Extraction                     : Yes
+Shift Register Extraction          : YES
+ROM Style                          : Auto
+Resource Sharing                   : YES
+Asynchronous To Synchronous        : NO
+Shift Register Minimum Size        : 2
+Use DSP Block                      : Auto
+Automatic Register Balancing       : No
+
+---- Target Options
+LUT Combining                      : Auto
+Reduce Control Sets                : Auto
+Add IO Buffers                     : YES
+Global Maximum Fanout              : 100000
+Add Generic Clock Buffer(BUFG)     : 32
+Register Duplication               : YES
+Optimize Instantiated Primitives   : NO
+Use Clock Enable                   : Auto
+Use Synchronous Set                : Auto
+Use Synchronous Reset              : Auto
+Pack IO Registers into IOBs        : Auto
+Equivalent register Removal        : YES
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Power Reduction                    : NO
+Keep Hierarchy                     : No
+Netlist Hierarchy                  : As_Optimized
+RTL Output                         : Yes
+Global Optimization                : AllClockNets
+Read Cores                         : YES
+Write Timing Constraints           : NO
+Cross Clock Analysis               : NO
+Hierarchy Separator                : /
+Bus Delimiter                      : <>
+Case Specifier                     : Maintain
+Slice Utilization Ratio            : 100
+BRAM Utilization Ratio             : 100
+DSP48 Utilization Ratio            : 100
+Auto BRAM Packing                  : NO
+Slice Utilization Ratio Delta      : 5
+
+---- Other Options
+Cores Search Directories           : {"ipcore_dir"  }
+
+=========================================================================
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Analyzing Verilog file "C:\Users\cl\Desktop\bo18\cmt4\ipcore_dir\cmt5.v" into library work
+Parsing module <cmt5>.
+Analyzing Verilog file "C:\Users\cl\Desktop\bo18\cmt4\register.v" into library work
+Parsing module <register>.
+Analyzing Verilog file "C:\Users\cl\Desktop\bo18\cmt4\mux4.v" into library work
+Parsing module <mux4>.
+Analyzing Verilog file "C:\Users\cl\Desktop\bo18\cmt4\mux3.v" into library work
+Parsing module <mux3>.
+Analyzing Verilog file "C:\Users\cl\Desktop\bo18\cmt4\mux2.v" into library work
+Parsing module <mux2>.
+Analyzing Verilog file "C:\Users\cl\Desktop\bo18\cmt4\mux1.v" into library work
+Parsing module <mux1>.
+Analyzing Verilog file "C:\Users\cl\Desktop\bo18\cmt4\clocking_mod_mux.v" into library work
+Parsing module <clocking_mod_mux>.
+Analyzing Verilog file "C:\Users\cl\Desktop\bo18\cmt4\sm_top_module.v" into library work
+Parsing module <sm_top_module>.
+Analyzing Verilog file "C:\Users\cl\Desktop\bo18\cmt4\ipcore_dir\bram18.v" into library work
+Parsing module <bram18>.
+Analyzing Verilog file "C:\Users\cl\Desktop\bo18\cmt4\Externel_memory.v" into library work
+Parsing module <Externel_memory>.
+Analyzing Verilog file "C:\Users\cl\Desktop\bo18\cmt4\cmt_topmodule.v" into library work
+Parsing module <cmt_topmodule>.
+Analyzing Verilog file "C:\Users\cl\Desktop\bo18\cmt4\CM.v" into library work
+Parsing module <CM>.
+Analyzing Verilog file "C:\Users\cl\Desktop\bo18\cmt4\agm.v" into library work
+Parsing module <agm>.
+Analyzing Verilog file "C:\Users\cl\Desktop\bo18\cmt4\top_module_imp.v" into library work
+Parsing module <top_module_imp>.
+Analyzing Verilog file "C:\Users\cl\Desktop\bo18\cmt4\clk.v" into library work
+Parsing module <clk>.
+Analyzing Verilog file "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" into library work
+WARNING:HDLCompiler:1591 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" Line 22: Root scope declaration is not allowed in verilog 95/2K mode
+Parsing module <cep_project>.
+
+=========================================================================
+*                            HDL Elaboration                            *
+=========================================================================
+
+Elaborating module <cep_project>.
+
+Elaborating module <$unit_1>.
+
+Elaborating module <clk>.
+WARNING:HDLCompiler:1127 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" Line 27: Assignment to CLK ignored, since the identifier is never used
+
+Elaborating module <top_module_imp>.
+
+Elaborating module <agm>.
+WARNING:HDLCompiler:413 - "C:\Users\cl\Desktop\bo18\cmt4\agm.v" Line 66: Result of 32-bit expression is truncated to fit in 11-bit target.
+WARNING:HDLCompiler:413 - "C:\Users\cl\Desktop\bo18\cmt4\agm.v" Line 67: Result of 32-bit expression is truncated to fit in 11-bit target.
+WARNING:HDLCompiler:413 - "C:\Users\cl\Desktop\bo18\cmt4\agm.v" Line 78: Result of 12-bit expression is truncated to fit in 11-bit target.
+WARNING:HDLCompiler:413 - "C:\Users\cl\Desktop\bo18\cmt4\agm.v" Line 79: Result of 12-bit expression is truncated to fit in 11-bit target.
+WARNING:HDLCompiler:413 - "C:\Users\cl\Desktop\bo18\cmt4\agm.v" Line 82: Result of 10-bit expression is truncated to fit in 9-bit target.
+WARNING:HDLCompiler:413 - "C:\Users\cl\Desktop\bo18\cmt4\agm.v" Line 83: Result of 10-bit expression is truncated to fit in 9-bit target.
+
+Elaborating module <Externel_memory>.
+Reading initialization file \"my_bram8x8.coe\".
+
+Elaborating module <cmt_topmodule>.
+
+Elaborating module <cmt5>.
+
+Elaborating module <IBUFG>.
+
+Elaborating module <MMCME2_ADV(BANDWIDTH="OPTIMIZED",CLKOUT4_CASCADE="FALSE",COMPENSATION="ZHOLD",STARTUP_WAIT="FALSE",DIVCLK_DIVIDE=1,CLKFBOUT_MULT_F=10.0,CLKFBOUT_PHASE=0.0,CLKFBOUT_USE_FINE_PS="FALSE",CLKOUT0_DIVIDE_F=10.0,CLKOUT0_PHASE=0.0,CLKOUT0_DUTY_CYCLE=0.5,CLKOUT0_USE_FINE_PS="FALSE",CLKOUT1_DIVIDE=10,CLKOUT1_PHASE=0.0,CLKOUT1_DUTY_CYCLE=0.25,CLKOUT1_USE_FINE_PS="FALSE",CLKOUT2_DIVIDE=10,CLKOUT2_PHASE=180.0,CLKOUT2_DUTY_CYCLE=0.25,CLKOUT2_USE_FINE_PS="FALSE",CLKIN1_PERIOD=10.0,REF_JITTER1=0.01)>.
+WARNING:HDLCompiler:1127 - "C:\Users\cl\Desktop\bo18\cmt4\ipcore_dir\cmt5.v" Line 137: Assignment to clkfboutb_unused ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\cl\Desktop\bo18\cmt4\ipcore_dir\cmt5.v" Line 139: Assignment to clkout0b_unused ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\cl\Desktop\bo18\cmt4\ipcore_dir\cmt5.v" Line 141: Assignment to clkout1b_unused ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\cl\Desktop\bo18\cmt4\ipcore_dir\cmt5.v" Line 143: Assignment to clkout2b_unused ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\cl\Desktop\bo18\cmt4\ipcore_dir\cmt5.v" Line 144: Assignment to clkout3_unused ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\cl\Desktop\bo18\cmt4\ipcore_dir\cmt5.v" Line 145: Assignment to clkout3b_unused ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\cl\Desktop\bo18\cmt4\ipcore_dir\cmt5.v" Line 146: Assignment to clkout4_unused ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\cl\Desktop\bo18\cmt4\ipcore_dir\cmt5.v" Line 147: Assignment to clkout5_unused ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\cl\Desktop\bo18\cmt4\ipcore_dir\cmt5.v" Line 148: Assignment to clkout6_unused ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\cl\Desktop\bo18\cmt4\ipcore_dir\cmt5.v" Line 160: Assignment to do_unused ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\cl\Desktop\bo18\cmt4\ipcore_dir\cmt5.v" Line 161: Assignment to drdy_unused ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\cl\Desktop\bo18\cmt4\ipcore_dir\cmt5.v" Line 167: Assignment to psdone_unused ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\cl\Desktop\bo18\cmt4\ipcore_dir\cmt5.v" Line 170: Assignment to clkinstopped_unused ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\cl\Desktop\bo18\cmt4\ipcore_dir\cmt5.v" Line 171: Assignment to clkfbstopped_unused ignored, since the identifier is never used
+
+Elaborating module <BUFG>.
+WARNING:HDLCompiler:1127 - "C:\Users\cl\Desktop\bo18\cmt4\cmt_topmodule.v" Line 45: Assignment to LOCKED ignored, since the identifier is never used
+
+Elaborating module <clocking_mod_mux>.
+
+Elaborating module <CM>.
+WARNING:HDLCompiler:413 - "C:\Users\cl\Desktop\bo18\cmt4\CM.v" Line 66: Result of 3-bit expression is truncated to fit in 2-bit target.
+WARNING:HDLCompiler:1127 - "C:\Users\cl\Desktop\bo18\cmt4\top_module_imp.v" Line 75: Assignment to complete ignored, since the identifier is never used
+
+Elaborating module <bram18>.
+WARNING:HDLCompiler:1499 - "C:\Users\cl\Desktop\bo18\cmt4\ipcore_dir\bram18.v" Line 39: Empty module <bram18> remains a black box.
+
+Elaborating module <sm_top_module>.
+
+Elaborating module <register>.
+
+Elaborating module <mux1>.
+
+Elaborating module <mux2>.
+
+Elaborating module <mux3>.
+
+Elaborating module <mux4>.
+WARNING:HDLCompiler:634 - "C:\Users\cl\Desktop\bo18\cmt4\top_module_imp.v" Line 60: Net <clk> does not have a driver.
+WARNING:HDLCompiler:189 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" Line 39: Size mismatch in connection of port <out1>. Formal port size is 8-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:1127 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" Line 39: Assignment to out1 ignored, since the identifier is never used
+WARNING:HDLCompiler:189 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" Line 40: Size mismatch in connection of port <out2>. Formal port size is 8-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:1127 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" Line 40: Assignment to out2 ignored, since the identifier is never used
+WARNING:HDLCompiler:189 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" Line 41: Size mismatch in connection of port <out3>. Formal port size is 8-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:1127 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" Line 41: Assignment to out3 ignored, since the identifier is never used
+WARNING:HDLCompiler:189 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" Line 42: Size mismatch in connection of port <out4>. Formal port size is 8-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:1127 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" Line 42: Assignment to out4 ignored, since the identifier is never used
+WARNING:HDLCompiler:189 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" Line 43: Size mismatch in connection of port <out5>. Formal port size is 8-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:1127 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" Line 43: Assignment to out5 ignored, since the identifier is never used
+WARNING:HDLCompiler:189 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" Line 44: Size mismatch in connection of port <out6>. Formal port size is 8-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:1127 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" Line 44: Assignment to out6 ignored, since the identifier is never used
+WARNING:HDLCompiler:189 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" Line 45: Size mismatch in connection of port <out7>. Formal port size is 8-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:1127 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" Line 45: Assignment to out7 ignored, since the identifier is never used
+WARNING:HDLCompiler:189 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" Line 46: Size mismatch in connection of port <out8>. Formal port size is 8-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:1127 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" Line 46: Assignment to out8 ignored, since the identifier is never used
+WARNING:HDLCompiler:189 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" Line 47: Size mismatch in connection of port <out9>. Formal port size is 8-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:1127 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" Line 47: Assignment to out9 ignored, since the identifier is never used
+WARNING:Xst:2972 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" line 26. All outputs of instance <clk_inst> of block <clk> are unconnected in block <cep_project>. Underlying logic will be removed.
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <cep_project>.
+    Related source file is "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v".
+INFO:Xst:3210 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" line 26: Output port <CLK> of the instance <clk_inst> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" line 35: Output port <out1> of the instance <top_inst> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" line 35: Output port <out2> of the instance <top_inst> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" line 35: Output port <out3> of the instance <top_inst> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" line 35: Output port <out4> of the instance <top_inst> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" line 35: Output port <out5> of the instance <top_inst> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" line 35: Output port <out6> of the instance <top_inst> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" line 35: Output port <out7> of the instance <top_inst> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" line 35: Output port <out8> of the instance <top_inst> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\cl\Desktop\bo18\cmt4\cep_project.v" line 35: Output port <out9> of the instance <top_inst> is unconnected or connected to loadless signal.
+    Summary:
+	no macro.
+Unit <cep_project> synthesized.
+
+Synthesizing Unit <top_module_imp>.
+    Related source file is "C:\Users\cl\Desktop\bo18\cmt4\top_module_imp.v".
+INFO:Xst:3210 - "C:\Users\cl\Desktop\bo18\cmt4\top_module_imp.v" line 68: Output port <complete> of the instance <cm_inst> is unconnected or connected to loadless signal.
+WARNING:Xst:653 - Signal <out9> is used but never assigned. This sourceless signal will be automatically connected to value GND.
+WARNING:Xst:653 - Signal <clk> is used but never assigned. This sourceless signal will be automatically connected to value GND.
+    Summary:
+	no macro.
+Unit <top_module_imp> synthesized.
+
+Synthesizing Unit <agm>.
+    Related source file is "C:\Users\cl\Desktop\bo18\cmt4\agm.v".
+    Found 9-bit adder for signal <addrb1[8]_GND_5_o_add_7_OUT> created at line 82.
+    Found 9-bit adder for signal <addrb2[8]_GND_5_o_add_8_OUT> created at line 83.
+    Found 32-bit adder for signal <count> created at line 68.
+    Found 11-bit adder for signal <addra1> created at line 78.
+    Found 11-bit adder for signal <addra2> created at line 79.
+WARNING:Xst:737 - Found 1-bit latch for signal <addrb1<7>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <addrb1<6>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <addrb1<5>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <addrb1<4>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <addrb1<3>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <addrb1<2>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <addrb1<1>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <addrb1<0>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <addrb2<8>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <addrb2<7>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <addrb2<6>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <addrb2<5>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <addrb2<4>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <addrb2<3>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <addrb2<2>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <addrb2<1>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <addrb2<0>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <addrb1<8>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+    Found 32-bit comparator greater for signal <count[31]_GND_5_o_LessThan_7_o> created at line 80
+    Summary:
+	inferred   5 Adder/Subtractor(s).
+	inferred  18 Latch(s).
+	inferred   1 Comparator(s).
+	inferred  38 Multiplexer(s).
+Unit <agm> synthesized.
+
+Synthesizing Unit <Externel_memory>.
+    Related source file is "C:\Users\cl\Desktop\bo18\cmt4\Externel_memory.v".
+WARNING:Xst:2999 - Signal 'ext_mem', unconnected in block 'Externel_memory', is tied to its initial value.
+WARNING:Xst:3035 - Index value(s) does not match array range for signal <ext_mem>, simulation mismatch.
+    Found 101x8-bit single-port Read Only RAM <Mram_ext_mem> for signal <ext_mem>.
+    Found 32-bit adder for signal <n0402> created at line 46.
+    Summary:
+	inferred   1 RAM(s).
+	inferred   1 Adder/Subtractor(s).
+Unit <Externel_memory> synthesized.
+
+Synthesizing Unit <cmt_topmodule>.
+    Related source file is "C:\Users\cl\Desktop\bo18\cmt4\cmt_topmodule.v".
+INFO:Xst:3210 - "C:\Users\cl\Desktop\bo18\cmt4\cmt_topmodule.v" line 38: Output port <LOCKED> of the instance <uut> is unconnected or connected to loadless signal.
+    Summary:
+	no macro.
+Unit <cmt_topmodule> synthesized.
+
+Synthesizing Unit <cmt5>.
+    Related source file is "C:\Users\cl\Desktop\bo18\cmt4\ipcore_dir\cmt5.v".
+    Summary:
+	no macro.
+Unit <cmt5> synthesized.
+
+Synthesizing Unit <clocking_mod_mux>.
+    Related source file is "C:\Users\cl\Desktop\bo18\cmt4\clocking_mod_mux.v".
+    Summary:
+	inferred   1 Multiplexer(s).
+Unit <clocking_mod_mux> synthesized.
+
+Synthesizing Unit <CM>.
+    Related source file is "C:\Users\cl\Desktop\bo18\cmt4\CM.v".
+WARNING:Xst:647 - Input <start> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+WARNING:Xst:2935 - Signal 'ena', unconnected in block 'CM', is tied to its initial value (1).
+WARNING:Xst:2935 - Signal 'enb', unconnected in block 'CM', is tied to its initial value (1).
+WARNING:Xst:653 - Signal <complete> is used but never assigned. This sourceless signal will be automatically connected to value GND.
+    Register <wea1> equivalent to <wea2> has been removed
+    Found 1-bit register for signal <wea2>.
+    Found 2-bit adder for signal <n0028> created at line 66.
+    Found 2-bit adder for signal <n0030> created at line 66.
+    Found 2-bit adder for signal <n0032> created at line 66.
+    Found 2-bit adder for signal <n0034> created at line 66.
+    Found 2-bit adder for signal <n0036> created at line 66.
+    Found 2-bit adder for signal <n0038> created at line 66.
+    Found 2-bit adder for signal <n0040> created at line 66.
+    Found 2-bit adder for signal <n0042> created at line 66.
+    Found 2-bit adder for signal <n0044> created at line 66.
+    Found 2-bit adder for signal <n0046> created at line 66.
+    Found 2-bit adder for signal <n0048> created at line 66.
+    Found 2-bit adder for signal <sel> created at line 66.
+    Summary:
+	inferred  12 Adder/Subtractor(s).
+	inferred   1 D-type flip-flop(s).
+Unit <CM> synthesized.
+
+Synthesizing Unit <sm_top_module>.
+    Related source file is "C:\Users\cl\Desktop\bo18\cmt4\sm_top_module.v".
+    Summary:
+	no macro.
+Unit <sm_top_module> synthesized.
+
+Synthesizing Unit <register>.
+    Related source file is "C:\Users\cl\Desktop\bo18\cmt4\register.v".
+    Summary:
+	no macro.
+Unit <register> synthesized.
+
+Synthesizing Unit <mux1>.
+    Related source file is "C:\Users\cl\Desktop\bo18\cmt4\mux1.v".
+    Found 8-bit 4-to-1 multiplexer for signal <o_mux1> created at line 30.
+    Summary:
+	inferred   1 Multiplexer(s).
+Unit <mux1> synthesized.
+
+Synthesizing Unit <mux2>.
+    Related source file is "C:\Users\cl\Desktop\bo18\cmt4\mux2.v".
+    Found 8-bit 4-to-1 multiplexer for signal <o_mux2> created at line 30.
+    Summary:
+	inferred   1 Multiplexer(s).
+Unit <mux2> synthesized.
+
+Synthesizing Unit <mux3>.
+    Related source file is "C:\Users\cl\Desktop\bo18\cmt4\mux3.v".
+    Found 8-bit 4-to-1 multiplexer for signal <o_mux3> created at line 30.
+    Summary:
+	inferred   1 Multiplexer(s).
+Unit <mux3> synthesized.
+
+Synthesizing Unit <mux4>.
+    Related source file is "C:\Users\cl\Desktop\bo18\cmt4\mux4.v".
+    Found 8-bit 4-to-1 multiplexer for signal <o_mux4> created at line 29.
+    Summary:
+	inferred   1 Multiplexer(s).
+Unit <mux4> synthesized.
+
+=========================================================================
+HDL Synthesis Report
+
+Macro Statistics
+# RAMs                                                 : 1
+ 101x8-bit single-port Read Only RAM                   : 1
+# Adders/Subtractors                                   : 18
+ 11-bit adder                                          : 2
+ 2-bit adder                                           : 12
+ 32-bit adder                                          : 2
+ 9-bit adder                                           : 2
+# Registers                                            : 1
+ 1-bit register                                        : 1
+# Latches                                              : 18
+ 1-bit latch                                           : 18
+# Comparators                                          : 1
+ 32-bit comparator greater                             : 1
+# Multiplexers                                         : 47
+ 1-bit 2-to-1 multiplexer                              : 1
+ 8-bit 4-to-1 multiplexer                              : 8
+ 9-bit 2-to-1 multiplexer                              : 38
+
+=========================================================================
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+Reading core <ipcore_dir/bram18.ngc>.
+Loading core <bram18> for timing and area information for instance <bram_inst1>.
+Loading core <bram18> for timing and area information for instance <bram_inst2>.
+WARNING:Xst:1290 - Hierarchical block <top_inst> is unconnected in block <cep_project>.
+   It will be removed from the design.
+
+Synthesizing (advanced) Unit <Externel_memory>.
+INFO:Xst:3218 - HDL ADVISOR - The RAM <Mram_ext_mem> will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
+    -----------------------------------------------------------------------
+    | ram_type           | Distributed                         |          |
+    -----------------------------------------------------------------------
+    | Port A                                                              |
+    |     aspect ratio   | 101-word x 8-bit                    |          |
+    |     weA            | connected to signal <GND>           | high     |
+    |     addrA          | connected to signal <n0402<6:0>>    |          |
+    |     diA            | connected to signal <GND>           |          |
+    |     doA            | connected to internal node          |          |
+    -----------------------------------------------------------------------
+Unit <Externel_memory> synthesized (advanced).
+
+=========================================================================
+Advanced HDL Synthesis Report
+
+Macro Statistics
+# RAMs                                                 : 1
+ 101x8-bit single-port distributed Read Only RAM       : 1
+# Adders/Subtractors                                   : 7
+ 11-bit adder                                          : 2
+ 2-bit adder                                           : 1
+ 32-bit adder                                          : 2
+ 9-bit adder                                           : 2
+# Registers                                            : 1
+ Flip-Flops                                            : 1
+# Comparators                                          : 1
+ 32-bit comparator greater                             : 1
+# Multiplexers                                         : 46
+ 8-bit 4-to-1 multiplexer                              : 8
+ 9-bit 2-to-1 multiplexer                              : 38
+
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+WARNING:Xst:2170 - Unit MTP_ : the following signal(s) form a combinatorial loop: data_in1<0>, top_module_imp/uut/n0402<2>, top_module_imp/uut/Madd_n0402_lut<2>, uut/n0402<2>.
+WARNING:Xst:2170 - Unit MTP_ : the following signal(s) form a combinatorial loop: data_in1<1>, top_module_imp/uut/n0402<5>, top_module_imp/uut/Madd_n0402_lut<5>, uut/n0402<5>.
+WARNING:Xst:2170 - Unit MTP_ : the following signal(s) form a combinatorial loop: uut/n0402<6>, top_module_imp/uut/Madd_n0402_lut<6>, top_module_imp/uut/n0402<6>, data_in1<2>.
+WARNING:Xst:2170 - Unit MTP_ : the following signal(s) form a combinatorial loop: uut/n0402<1>.
+WARNING:Xst:2170 - Unit MTP_ : the following signal(s) form a combinatorial loop: uut/n0402<3>.
+WARNING:Xst:2170 - Unit MTP_ : the following signal(s) form a combinatorial loop: uut/n0402<4>.
+WARNING:Xst:2170 - Unit MTP_ : the following signal(s) form a combinatorial loop: uut/n0402<0>.
+WARNING:Xst:2170 - Unit top_module_imp : the following signal(s) form a combinatorial loop: uut/n0402<1>.
+WARNING:Xst:2170 - Unit top_module_imp : the following signal(s) form a combinatorial loop: cm_inst/Madd_sel_Madd1_lut<1>.
+WARNING:Xst:2170 - Unit top_module_imp : the following signal(s) form a combinatorial loop: uut/n0402<3>.
+WARNING:Xst:2170 - Unit top_module_imp : the following signal(s) form a combinatorial loop: cm_inst/Madd_sel_Madd1_lut<0>.
+WARNING:Xst:2170 - Unit top_module_imp : the following signal(s) form a combinatorial loop: uut/n0402<4>.
+WARNING:Xst:2170 - Unit top_module_imp : the following signal(s) form a combinatorial loop: uut/n0402<0>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: Mcompar_count[31]_GND_5_o_LessThan_7_o_cy<5>, Mcompar_count[31]_GND_5_o_LessThan_7_o_cy<3>, Madd_count_cy<0>, Mcompar_count[31]_GND_5_o_LessThan_7_o_cy<0>, Mcompar_count[31]_GND_5_o_LessThan_7_o_lutdi, count<0>, addrb1[8]_addrb1[8]_mux_126_OUT<7>, Mcompar_count[31]_GND_5_o_LessThan_7_o_cy<4>, count<1>, Mcompar_count[31]_GND_5_o_LessThan_7_o_cy<6>, Madd_count_lut<0>, Mcompar_count[31]_GND_5_o_LessThan_7_o_cy<2>, Mcompar_count[31]_GND_5_o_LessThan_7_o_cy<1>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<19>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<31>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<27>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<23>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: Madd_addra2_lut<8>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: Madd_addra1_lut<10>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: Madd_addra1_lut<0>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: Madd_addra2_lut<9>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: Madd_addra2_cy<2>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<4>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<8>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: Madd_addra1_lut<5>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<12>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: Madd_addra2_lut<5>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<16>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: Madd_addra2_lut<0>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<20>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<30>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<26>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: Madd_addra2_lut<3>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: Madd_addra1_lut<7>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: Madd_addra1_lut<9>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<1>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: Madd_addra1_cy<2>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<5>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<9>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: Madd_addra1_lut<3>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<13>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<17>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<21>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<29>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: Madd_addra2_lut<7>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<25>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: Madd_addra1_lut<1>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<2>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<6>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: Madd_addra2_lut<4>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<10>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: Madd_addra1_lut<4>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<14>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<18>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: Madd_addra2_lut<6>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<22>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<28>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<24>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: Madd_addra1_lut<8>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: Madd_addra2_lut<10>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: Madd_addra2_lut<1>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<3>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: Madd_addra1_lut<6>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<7>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<11>.
+WARNING:Xst:2170 - Unit agm : the following signal(s) form a combinatorial loop: count<15>.
+
+Optimizing unit <cep_project> ...
+
+Optimizing unit <top_module_imp> ...
+
+Optimizing unit <agm> ...
+
+Mapping all equations...
+ERROR:Xst:2033 - Port I of Input buffer top_inst/cmt_topmodule_inst/uut/clkin1_buf is connected to GND
+ERROR:Xst:1847 - Design checking failed
+--> 
+
+Total memory usage is 373772 kilobytes
+
+Number of errors   :    2 (   0 filtered)
+Number of warnings :  140 (   0 filtered)
+Number of infos    :   13 (   0 filtered)
+

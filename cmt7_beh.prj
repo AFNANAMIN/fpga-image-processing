@@ -1,0 +1,4 @@
+verilog work "ipcore_dir/cmt5.v"
+verilog work "clk_mux2.v"
+verilog work "cmt7.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

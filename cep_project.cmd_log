@@ -1,0 +1,26 @@
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 cep_project.ngc cep_project.ngd  
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 cep_project.ngc cep_project.ngd  
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 cep_project.ngc cep_project.ngd  
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 cep_project.ngc cep_project.ngd  
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 cep_project.ngc cep_project.ngd  
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 cep_project.ngc cep_project.ngd  
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -i -p xc7a100t-csg324-3 cep_project.ngc cep_project.ngd  
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.syr" 
+xst -intstyle ise -ifn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.xst" -ofn "C:/Users/cl/Desktop/bo18/cmt4/cep_project.syr" 

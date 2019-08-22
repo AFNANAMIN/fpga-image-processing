@@ -1,0 +1,140 @@
+--------------------------------------------------------------------------------
+Release 14.7 Trace  (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\trce.exe -intstyle ise -v 3 -s 3
+-n 3 -fastpaths -xml top_module_imp.twx top_module_imp.ncd -o
+top_module_imp.twr top_module_imp.pcf
+
+Design file:              top_module_imp.ncd
+Physical constraint file: top_module_imp.pcf
+Device,package,speed:     xc7a100t,csg324,C,-3 (PRODUCTION 1.10 2013-10-13)
+Report level:             verbose report
+
+Environment Variable      Effect 
+--------------------      ------ 
+NONE                      No environment variables were set
+--------------------------------------------------------------------------------
+
+INFO:Timing:2698 - No timing constraints found, doing default enumeration.
+INFO:Timing:3412 - To improve timing, see the Timing Closure User Guide (UG612).
+INFO:Timing:2752 - To get complete path coverage, use the unconstrained paths 
+   option. All paths that are not constrained will be reported in the 
+   unconstrained paths section(s) of the report.
+INFO:Timing:3339 - The clock-to-out numbers in this timing report are based on 
+   a 50 Ohm transmission line loading model.  For the details of this model, 
+   and for more information on accounting for different loading conditions, 
+   please see the device datasheet.
+
+
+
+Data Sheet report:
+-----------------
+All values displayed in nanoseconds (ns)
+
+Setup/Hold to clock CLK
+------------+------------+------------+------------+------------+------------------+--------+
+            |Max Setup to|  Process   |Max Hold to |  Process   |                  | Clock  |
+Source      | clk (edge) |   Corner   | clk (edge) |   Corner   |Internal Clock(s) | Phase  |
+------------+------------+------------+------------+------------+------------------+--------+
+dina<0>     |    4.146(R)|      SLOW  |   -1.579(R)|      FAST  |write_clk         |   0.000|
+dina<1>     |    5.584(R)|      SLOW  |   -2.419(R)|      FAST  |write_clk         |   0.000|
+dina<2>     |    5.292(R)|      SLOW  |   -2.216(R)|      FAST  |write_clk         |   0.000|
+dina<3>     |    4.993(R)|      SLOW  |   -2.061(R)|      FAST  |write_clk         |   0.000|
+dina<4>     |    5.337(R)|      SLOW  |   -2.282(R)|      FAST  |write_clk         |   0.000|
+dina<5>     |    5.258(R)|      SLOW  |   -2.190(R)|      FAST  |write_clk         |   0.000|
+dina<6>     |    5.350(R)|      SLOW  |   -2.286(R)|      FAST  |write_clk         |   0.000|
+dina<7>     |    5.231(R)|      SLOW  |   -2.191(R)|      FAST  |write_clk         |   0.000|
+------------+------------+------------+------------+------------+------------------+--------+
+
+Clock CLK to Pad
+------------+-----------------+------------+-----------------+------------+------------------+--------+
+            |Max (slowest) clk|  Process   |Min (fastest) clk|  Process   |                  | Clock  |
+Destination |  (edge) to PAD  |   Corner   |  (edge) to PAD  |   Corner   |Internal Clock(s) | Phase  |
+------------+-----------------+------------+-----------------+------------+------------------+--------+
+out1<0>     |         8.665(R)|      SLOW  |         3.449(R)|      FAST  |read_clk_BUFG     |   0.000|
+out1<1>     |         8.748(R)|      SLOW  |         3.559(R)|      FAST  |read_clk_BUFG     |   0.000|
+out1<2>     |         8.616(R)|      SLOW  |         3.445(R)|      FAST  |read_clk_BUFG     |   0.000|
+out1<3>     |         8.598(R)|      SLOW  |         3.476(R)|      FAST  |read_clk_BUFG     |   0.000|
+out1<4>     |         8.673(R)|      SLOW  |         3.489(R)|      FAST  |read_clk_BUFG     |   0.000|
+out1<5>     |         8.506(R)|      SLOW  |         3.433(R)|      FAST  |read_clk_BUFG     |   0.000|
+out1<6>     |         8.588(R)|      SLOW  |         3.452(R)|      FAST  |read_clk_BUFG     |   0.000|
+out1<7>     |         8.523(R)|      SLOW  |         3.411(R)|      FAST  |read_clk_BUFG     |   0.000|
+out2<0>     |         8.439(R)|      SLOW  |         3.379(R)|      FAST  |read_clk_BUFG     |   0.000|
+out2<1>     |         8.358(R)|      SLOW  |         3.322(R)|      FAST  |read_clk_BUFG     |   0.000|
+out2<2>     |         8.346(R)|      SLOW  |         3.345(R)|      FAST  |read_clk_BUFG     |   0.000|
+out2<3>     |         9.140(R)|      SLOW  |         3.879(R)|      FAST  |read_clk_BUFG     |   0.000|
+out2<4>     |         8.440(R)|      SLOW  |         3.375(R)|      FAST  |read_clk_BUFG     |   0.000|
+out2<5>     |         8.321(R)|      SLOW  |         3.332(R)|      FAST  |read_clk_BUFG     |   0.000|
+out2<6>     |         9.263(R)|      SLOW  |         4.021(R)|      FAST  |read_clk_BUFG     |   0.000|
+out2<7>     |         8.616(R)|      SLOW  |         3.467(R)|      FAST  |read_clk_BUFG     |   0.000|
+out3<0>     |         4.646(R)|      SLOW  |         1.950(R)|      FAST  |read_clk_BUFG     |   0.000|
+out3<1>     |         4.674(R)|      SLOW  |         1.976(R)|      FAST  |read_clk_BUFG     |   0.000|
+out3<2>     |         4.656(R)|      SLOW  |         1.957(R)|      FAST  |read_clk_BUFG     |   0.000|
+out3<3>     |         4.675(R)|      SLOW  |         1.977(R)|      FAST  |read_clk_BUFG     |   0.000|
+out3<4>     |         4.687(R)|      SLOW  |         1.989(R)|      FAST  |read_clk_BUFG     |   0.000|
+out3<5>     |         4.665(R)|      SLOW  |         1.967(R)|      FAST  |read_clk_BUFG     |   0.000|
+out3<6>     |         4.656(R)|      SLOW  |         1.959(R)|      FAST  |read_clk_BUFG     |   0.000|
+out3<7>     |         4.664(R)|      SLOW  |         1.966(R)|      FAST  |read_clk_BUFG     |   0.000|
+out4<0>     |         4.681(R)|      SLOW  |         1.981(R)|      FAST  |read_clk_BUFG     |   0.000|
+out4<1>     |         4.655(R)|      SLOW  |         1.958(R)|      FAST  |read_clk_BUFG     |   0.000|
+out4<2>     |         4.680(R)|      SLOW  |         1.981(R)|      FAST  |read_clk_BUFG     |   0.000|
+out4<3>     |         4.646(R)|      SLOW  |         1.947(R)|      FAST  |read_clk_BUFG     |   0.000|
+out4<4>     |         4.677(R)|      SLOW  |         1.979(R)|      FAST  |read_clk_BUFG     |   0.000|
+out4<5>     |         4.655(R)|      SLOW  |         1.958(R)|      FAST  |read_clk_BUFG     |   0.000|
+out4<6>     |         4.673(R)|      SLOW  |         1.972(R)|      FAST  |read_clk_BUFG     |   0.000|
+out4<7>     |         4.650(R)|      SLOW  |         1.952(R)|      FAST  |read_clk_BUFG     |   0.000|
+out5<0>     |         8.602(R)|      SLOW  |         3.466(R)|      FAST  |read_clk_BUFG     |   0.000|
+out5<1>     |         8.444(R)|      SLOW  |         3.364(R)|      FAST  |read_clk_BUFG     |   0.000|
+out5<2>     |         9.280(R)|      SLOW  |         3.942(R)|      FAST  |read_clk_BUFG     |   0.000|
+out5<3>     |         8.462(R)|      SLOW  |         3.394(R)|      FAST  |read_clk_BUFG     |   0.000|
+out5<4>     |         9.422(R)|      SLOW  |         3.991(R)|      FAST  |read_clk_BUFG     |   0.000|
+out5<5>     |         9.248(R)|      SLOW  |         3.917(R)|      FAST  |read_clk_BUFG     |   0.000|
+out5<6>     |         9.146(R)|      SLOW  |         3.817(R)|      FAST  |read_clk_BUFG     |   0.000|
+out5<7>     |         8.934(R)|      SLOW  |         3.662(R)|      FAST  |read_clk_BUFG     |   0.000|
+out6<0>     |         9.032(R)|      SLOW  |         3.790(R)|      FAST  |read_clk_BUFG     |   0.000|
+out6<1>     |         8.606(R)|      SLOW  |         3.457(R)|      FAST  |read_clk_BUFG     |   0.000|
+out6<2>     |         8.907(R)|      SLOW  |         3.725(R)|      FAST  |read_clk_BUFG     |   0.000|
+out6<3>     |         9.073(R)|      SLOW  |         3.831(R)|      FAST  |read_clk_BUFG     |   0.000|
+out6<4>     |         8.403(R)|      SLOW  |         3.342(R)|      FAST  |read_clk_BUFG     |   0.000|
+out6<5>     |         8.998(R)|      SLOW  |         3.756(R)|      FAST  |read_clk_BUFG     |   0.000|
+out6<6>     |         8.751(R)|      SLOW  |         3.579(R)|      FAST  |read_clk_BUFG     |   0.000|
+out6<7>     |         8.589(R)|      SLOW  |         3.468(R)|      FAST  |read_clk_BUFG     |   0.000|
+out7<0>     |         4.658(R)|      SLOW  |         1.958(R)|      FAST  |read_clk_BUFG     |   0.000|
+out7<1>     |         4.679(R)|      SLOW  |         1.981(R)|      FAST  |read_clk_BUFG     |   0.000|
+out7<2>     |         4.675(R)|      SLOW  |         1.972(R)|      FAST  |read_clk_BUFG     |   0.000|
+out7<3>     |         4.671(R)|      SLOW  |         1.972(R)|      FAST  |read_clk_BUFG     |   0.000|
+out7<4>     |         4.665(R)|      SLOW  |         1.964(R)|      FAST  |read_clk_BUFG     |   0.000|
+out7<5>     |         4.662(R)|      SLOW  |         1.959(R)|      FAST  |read_clk_BUFG     |   0.000|
+out7<6>     |         4.667(R)|      SLOW  |         1.965(R)|      FAST  |read_clk_BUFG     |   0.000|
+out7<7>     |         4.668(R)|      SLOW  |         1.966(R)|      FAST  |read_clk_BUFG     |   0.000|
+out8<0>     |         4.650(R)|      SLOW  |         1.947(R)|      FAST  |read_clk_BUFG     |   0.000|
+out8<1>     |         4.649(R)|      SLOW  |         1.945(R)|      FAST  |read_clk_BUFG     |   0.000|
+out8<2>     |         4.642(R)|      SLOW  |         1.939(R)|      FAST  |read_clk_BUFG     |   0.000|
+out8<3>     |         4.648(R)|      SLOW  |         1.945(R)|      FAST  |read_clk_BUFG     |   0.000|
+out8<4>     |         4.652(R)|      SLOW  |         1.949(R)|      FAST  |read_clk_BUFG     |   0.000|
+out8<5>     |         4.650(R)|      SLOW  |         1.946(R)|      FAST  |read_clk_BUFG     |   0.000|
+out8<6>     |         4.657(R)|      SLOW  |         1.953(R)|      FAST  |read_clk_BUFG     |   0.000|
+out8<7>     |         4.665(R)|      SLOW  |         1.962(R)|      FAST  |read_clk_BUFG     |   0.000|
+------------+-----------------+------------+-----------------+------------+------------------+--------+
+
+Clock to Setup on destination clock CLK
+---------------+---------+---------+---------+---------+
+               | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
+Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
+---------------+---------+---------+---------+---------+
+CLK            |    4.514|         |         |         |
+---------------+---------+---------+---------+---------+
+
+
+Analysis completed Tue Jul 09 07:12:08 2019 
+--------------------------------------------------------------------------------
+
+Trace Settings:
+-------------------------
+Trace Settings 
+
+Peak Memory Usage: 5002 MB
+
+
+

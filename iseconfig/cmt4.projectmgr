@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="cmt4" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/cep_project C:|Users|cl|Desktop|bo18|cmt4|cep_project.v/top_inst - top_module_imp</ClosedNode>
+         <ClosedNode>/sm_sim C:|Users|cl|Desktop|project backup (2)|project backup|cmt4|sm_sim.v</ClosedNode>
+         <ClosedNode>/sm_top_module C:|Users|cl|Desktop|project backup (2)|project backup|cmt4|sm_sim.v</ClosedNode>
+         <ClosedNode>/top_module C:|Users|cl|Desktop|bo18|cmt4|TOP.v/uut - cmt_topmodule</ClosedNode>
+         <ClosedNode>/top_module C:|Users|cl|Desktop|bo18|cmt4|top_module.v/cmt_topmodule_inst - cmt_topmodule</ClosedNode>
+         <ClosedNode>/top_module C:|Users|cl|Desktop|bo18|cmt4|top_module.v/sm_inst1 - sm_top_module</ClosedNode>
+         <ClosedNode>/top_module C:|Users|cl|Desktop|bo18|cmt4|top_module.v/sm_inst2 - sm_top_module</ClosedNode>
+         <ClosedNode>/top_module_imp C:|Users|cl|Desktop|bo18|cmt4|top_mod_imp.v/cmt_topmodule_inst - cmt_topmodule</ClosedNode>
+         <ClosedNode>/top_module_imp C:|Users|cl|Desktop|bo18|cmt4|top_mod_imp.v/sm_inst1 - sm_top_module</ClosedNode>
+         <ClosedNode>/top_module_imp C:|Users|cl|Desktop|bo18|cmt4|top_mod_imp.v/sm_inst2 - sm_top_module</ClosedNode>
+         <ClosedNode>/top_module_imp C:|Users|cl|Desktop|bo18|cmt4|top_module_imp.v/cmt_topmodule_inst - cmt_topmodule</ClosedNode>
+         <ClosedNode>/top_module_imp C:|Users|cl|Desktop|bo18|cmt4|top_module_imp.v/sm_inst2 - sm_top_module</ClosedNode>
+         <ClosedNode>/top_module_imp C:|Users|cl|Desktop|project backup (2)|project backup|cmt4|top_mod_imp.v/cmt_topmodule_inst - cmt_topmodule</ClosedNode>
+         <ClosedNode>/top_module_imp C:|Users|cl|Desktop|project backup (2)|project backup|cmt4|top_mod_imp.v/sm_inst1 - sm_top_module</ClosedNode>
+         <ClosedNode>/top_module_imp C:|Users|cl|Desktop|project backup|cmt4|top_mod_imp.v</ClosedNode>
+         <ClosedNode>/top_module_sim C:|Users|cl|Desktop|bo18|cmt4|top_mod_sim.v</ClosedNode>
+         <ClosedNode>/top_module_sim C:|Users|cl|Desktop|bo18|cmt4|top_mod_sim.v/sm_inst1 - sm_top_module</ClosedNode>
+         <ClosedNode>/top_module_sim C:|Users|cl|Desktop|bo18|cmt4|top_mod_sim.v/sm_inst2 - sm_top_module</ClosedNode>
+         <ClosedNode>/top_module_sim C:|Users|cl|Desktop|bo18|cmt4|top_mod_sim.v/uut - cmt_topmodule</ClosedNode>
+         <ClosedNode>PROJECT</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>top_module_imp (C:/Users/AFNAN/Desktop/project backup (2) - Copy/project backup/cmt4/top_mod_imp.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000191000000020000000000000000000000000200000064ffffffff000000810000000300000002000001910000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>top_module_imp (C:/Users/AFNAN/Desktop/project backup (2) - Copy/project backup/cmt4/top_mod_imp.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000ec000000010000000100000000000000000000000064ffffffff000000810000000000000001000000ec0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000027d000000040101000100000000000000000000000064ffffffff000000810000000000000004000000570000000100000000000000d70000000100000000000000660000000100000000000000e90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>agm.v</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000000f8000000010001000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000b6000000010000000100000000000000000000000064ffffffff000000810000000000000001000000b60000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_XCO" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>CORE Generator</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/bram18 C:|Users|cl|Desktop|bo18|cmt4|bram18.v</ClosedNode>
+         <ClosedNode>/cmt6 C:|Users|cl|Desktop|bo18|cmt4|cmt6.v</ClosedNode>
+         <ClosedNode>/cmt6 C:|Users|cl|Desktop|project backup (2)|project backup|cmt4|cmt6.v</ClosedNode>
+         <ClosedNode>/cmt6 C:|Users|cl|Desktop|project backup|cmt4|cmt6.v</ClosedNode>
+         <ClosedNode>/module_test C:|Users|cl|Desktop|project backup (2)|project backup|cmt4|module_test.v/uut - top_module_imp</ClosedNode>
+         <ClosedNode>/test_sim C:|Users|cl|Desktop|bo18|cmt4|test_sim.v</ClosedNode>
+         <ClosedNode>/test_sim C:|Users|cl|Desktop|bo18|cmt4|test_sim.v/uut - top_module_imp</ClosedNode>
+         <ClosedNode>/top_module C:|Users|cl|Desktop|bo18|cmt4|TOP.v</ClosedNode>
+         <ClosedNode>/top_module_imp C:|Users|cl|Desktop|bo18|cmt4|top_mod_imp.v</ClosedNode>
+         <ClosedNode>/top_module_imp C:|Users|cl|Desktop|bo18|cmt4|top_module_imp.v</ClosedNode>
+         <ClosedNode>/top_module_imp C:|Users|cl|Desktop|bo18|cmt4|top_module_imp.v/cmt_topmodule_inst - cmt_topmodule</ClosedNode>
+         <ClosedNode>/top_module_imp C:|Users|cl|Desktop|project backup (2)|project backup|cmt4|test2.v</ClosedNode>
+         <ClosedNode>/top_module_imp C:|Users|cl|Desktop|project backup (2)|project backup|cmt4|top_mod_imp.v/cmt_topmodule_inst - cmt_topmodule</ClosedNode>
+         <ClosedNode>/top_module_imp C:|Users|cl|Desktop|project backup (2)|project backup|cmt4|top_mod_imp.v/sm_inst1 - sm_top_module</ClosedNode>
+         <ClosedNode>/top_module_imp C:|Users|cl|Desktop|project backup|cmt4|top_mod_imp.v</ClosedNode>
+         <ClosedNode>/top_test C:|Users|cl|Desktop|bo18|cmt4|top_test.v</ClosedNode>
+         <ClosedNode>/top_test C:|Users|cl|Desktop|project backup (2)|project backup|cmt4|test2.v/cmt_topmodule_inst - cmt_topmodule</ClosedNode>
+         <ClosedNode>/top_test C:|Users|cl|Desktop|project backup (2)|project backup|cmt4|test2.v/sm_inst1 - sm_sim</ClosedNode>
+         <ClosedNode>/top_test C:|Users|cl|Desktop|project backup (2)|project backup|cmt4|top_test.v</ClosedNode>
+         <ClosedNode>/top_test C:|Users|cl|Desktop|project backup (2)|project backup|cmt4|top_test.v/cmt_topmodule_inst - cmt_topmodule</ClosedNode>
+         <ClosedNode>/top_test C:|Users|cl|Desktop|project backup (2)|project backup|cmt4|top_test.v/sm_inst1 - sm_top_module</ClosedNode>
+         <ClosedNode>/top_test C:|Users|cl|Desktop|project backup|cmt4|top_test.v</ClosedNode>
+         <ClosedNode>/tot C:|Users|cl|Desktop|bo18|cmt4|tot.v/uut - top_module</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>testplz (C:/Users/AFNAN/Desktop/project backup (2) - Copy/project backup/cmt4/testplz.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >22</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001a5000000020000000000000000000000000200000064ffffffff000000810000000300000002000001a50000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>testplz (C:/Users/AFNAN/Desktop/project backup (2) - Copy/project backup/cmt4/testplz.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000ec000000010000000100000000000000000000000064ffffffff000000810000000000000001000000ec0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Behavioral Check Syntax</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000ec000000010000000100000000000000000000000064ffffffff000000810000000000000001000000ec0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Behavioral Check Syntax</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000011b0000011b01000000050100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_MEM" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_BMM" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" />
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_XCO" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f6000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f60000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_XPS" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" />
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+</Project>

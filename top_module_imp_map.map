@@ -1,0 +1,182 @@
+Release 14.7 Map P.20131013 (nt64)
+Xilinx Map Application Log File for Design 'top_module_imp'
+
+Design Information
+------------------
+Command Line   : map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol
+high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off
+-power off -o top_module_imp_map.ncd top_module_imp.ngd top_module_imp.pcf 
+Target Device  : xc7a100t
+Target Package : csg324
+Target Speed   : -3
+Mapper Version : artix7 -- $Revision: 1.55 $
+Mapped Date    : Tue Jul 09 09:18:52 2019
+
+WARNING:LIT:701 - PAD symbol "CLK" has an undefined IOSTANDARD.
+WARNING:LIT:702 - PAD symbol "CLK" is not constrained (LOC) to a specific
+   location.
+Mapping design into LUTs...
+WARNING:MapLib:701 - Signal CLK connected to top level port CLK has been
+   removed.
+WARNING:MapLib:701 - Signal out6<7> connected to top level port out6<7> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o1<7> connected to top level port
+   out8<7> has been removed.
+WARNING:MapLib:701 - Signal out6<6> connected to top level port out6<6> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o1<6> connected to top level port
+   out8<6> has been removed.
+WARNING:MapLib:701 - Signal out6<5> connected to top level port out6<5> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o1<5> connected to top level port
+   out8<5> has been removed.
+WARNING:MapLib:701 - Signal out6<4> connected to top level port out6<4> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o1<4> connected to top level port
+   out8<4> has been removed.
+WARNING:MapLib:701 - Signal out6<3> connected to top level port out6<3> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o1<3> connected to top level port
+   out8<3> has been removed.
+WARNING:MapLib:701 - Signal out6<2> connected to top level port out6<2> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o1<2> connected to top level port
+   out8<2> has been removed.
+WARNING:MapLib:701 - Signal out6<1> connected to top level port out6<1> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o1<1> connected to top level port
+   out8<1> has been removed.
+WARNING:MapLib:701 - Signal out6<0> connected to top level port out6<0> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o1<0> connected to top level port
+   out8<0> has been removed.
+WARNING:MapLib:701 - Signal out1<7> connected to top level port out1<7> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o4<7> connected to top level port
+   out3<7> has been removed.
+WARNING:MapLib:701 - Signal out1<6> connected to top level port out1<6> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o4<6> connected to top level port
+   out3<6> has been removed.
+WARNING:MapLib:701 - Signal out1<5> connected to top level port out1<5> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o4<5> connected to top level port
+   out3<5> has been removed.
+WARNING:MapLib:701 - Signal out1<4> connected to top level port out1<4> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o4<4> connected to top level port
+   out3<4> has been removed.
+WARNING:MapLib:701 - Signal out1<3> connected to top level port out1<3> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o4<3> connected to top level port
+   out3<3> has been removed.
+WARNING:MapLib:701 - Signal out1<2> connected to top level port out1<2> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o4<2> connected to top level port
+   out3<2> has been removed.
+WARNING:MapLib:701 - Signal out1<1> connected to top level port out1<1> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o4<1> connected to top level port
+   out3<1> has been removed.
+WARNING:MapLib:701 - Signal out1<0> connected to top level port out1<0> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o4<0> connected to top level port
+   out3<0> has been removed.
+WARNING:MapLib:701 - Signal out5<7> connected to top level port out5<7> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o3<7> connected to top level port
+   out7<7> has been removed.
+WARNING:MapLib:701 - Signal out5<6> connected to top level port out5<6> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o3<6> connected to top level port
+   out7<6> has been removed.
+WARNING:MapLib:701 - Signal out5<5> connected to top level port out5<5> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o3<5> connected to top level port
+   out7<5> has been removed.
+WARNING:MapLib:701 - Signal out5<4> connected to top level port out5<4> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o3<4> connected to top level port
+   out7<4> has been removed.
+WARNING:MapLib:701 - Signal out5<3> connected to top level port out5<3> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o3<3> connected to top level port
+   out7<3> has been removed.
+WARNING:MapLib:701 - Signal out5<2> connected to top level port out5<2> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o3<2> connected to top level port
+   out7<2> has been removed.
+WARNING:MapLib:701 - Signal out5<1> connected to top level port out5<1> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o3<1> connected to top level port
+   out7<1> has been removed.
+WARNING:MapLib:701 - Signal out5<0> connected to top level port out5<0> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o3<0> connected to top level port
+   out7<0> has been removed.
+WARNING:MapLib:701 - Signal out2<7> connected to top level port out2<7> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o2<7> connected to top level port
+   out4<7> has been removed.
+WARNING:MapLib:701 - Signal out2<6> connected to top level port out2<6> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o2<6> connected to top level port
+   out4<6> has been removed.
+WARNING:MapLib:701 - Signal out2<5> connected to top level port out2<5> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o2<5> connected to top level port
+   out4<5> has been removed.
+WARNING:MapLib:701 - Signal out2<4> connected to top level port out2<4> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o2<4> connected to top level port
+   out4<4> has been removed.
+WARNING:MapLib:701 - Signal out2<3> connected to top level port out2<3> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o2<3> connected to top level port
+   out4<3> has been removed.
+WARNING:MapLib:701 - Signal out2<2> connected to top level port out2<2> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o2<2> connected to top level port
+   out4<2> has been removed.
+WARNING:MapLib:701 - Signal out2<1> connected to top level port out2<1> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o2<1> connected to top level port
+   out4<1> has been removed.
+WARNING:MapLib:701 - Signal out2<0> connected to top level port out2<0> has been
+   removed.
+WARNING:MapLib:701 - Signal sm_inst1/reg_inst/o2<0> connected to top level port
+   out4<0> has been removed.
+WARNING:MapLib:701 - Signal dina<7> connected to top level port dina<7> has been
+   removed.
+WARNING:MapLib:701 - Signal dina<6> connected to top level port dina<6> has been
+   removed.
+WARNING:MapLib:701 - Signal dina<5> connected to top level port dina<5> has been
+   removed.
+WARNING:MapLib:701 - Signal dina<4> connected to top level port dina<4> has been
+   removed.
+WARNING:MapLib:701 - Signal dina<3> connected to top level port dina<3> has been
+   removed.
+WARNING:MapLib:701 - Signal dina<2> connected to top level port dina<2> has been
+   removed.
+WARNING:MapLib:701 - Signal dina<1> connected to top level port dina<1> has been
+   removed.
+WARNING:MapLib:701 - Signal dina<0> connected to top level port dina<0> has been
+   removed.
+Running directed packing...
+Running delay-based LUT packing...
+ERROR:Pack:198 - NCD was not produced.  All logic was removed from the design. 
+   This is usually due to having no input or output PAD connections in the
+   design and no nets or symbols marked as 'SAVE'.  You can either add PADs or
+   'SAVE' attributes to the design, or run 'map -u' to disable logic trimming in
+   the mapper.  For more information on trimming issues search the Xilinx
+   Answers database for "ERROR:Pack:198" and read the Master Answer Record for
+   MAP Trimming Issues.
+
+Mapping completed.
+See MAP report file "top_module_imp_map.mrp" for details.
+Problem encountered during the packing phase.
+
+Design Summary
+--------------
+Number of errors   :   1
+Number of warnings :  75

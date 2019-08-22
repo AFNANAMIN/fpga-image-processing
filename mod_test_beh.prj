@@ -1,0 +1,5 @@
+verilog work "ipcore_dir/cmt5.v"
+verilog work "ipcore_dir/bram18.v"
+verilog work "mod.v"
+verilog work "mod_test.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

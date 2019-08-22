@@ -1,0 +1,41 @@
+Release 14.7 ngdbuild P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Command Line: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\ngdbuild.exe
+-intstyle ise -dd _ngo -sd ipcore_dir -r -nt timestamp -i -p xc7a100t-csg324-3
+top_module_imp.ngc top_module_imp.ngd
+
+Reading NGO file "C:/Users/AFNAN/Desktop/project backup (2) - Copy/project
+backup/cmt4/top_module_imp.ngc" ...
+Loading design module "ipcore_dir/bram18.ngc"...
+Gathering constraint information from source properties...
+Done.
+
+Resolving constraint associations...
+Checking Constraint Associations...
+Done...
+
+Checking expanded design ...
+WARNING:NgdBuild:478 - clock net cmt_topmodule_inst/CLK_OUT3 with clock driver
+   cmt_topmodule_inst/uut/clkout3_buf drives no clock pins
+WARNING:NgdBuild:478 - clock net cmt_topmodule_inst/CLK_OUT2 with clock driver
+   cmt_topmodule_inst/uut/clkout2_buf drives no clock pins
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   2
+
+Total memory usage is 4483148 kilobytes
+
+Writing NGD file "top_module_imp.ngd" ...
+Total REAL time to NGDBUILD completion:  12 sec
+Total CPU time to NGDBUILD completion:   12 sec
+
+Writing NGDBUILD log file "top_module_imp.bld"...

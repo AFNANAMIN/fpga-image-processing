@@ -1,0 +1,15 @@
+
+
+
+// Instantiate the module
+Externel_memory instance_name (
+    .clk(clk), 
+    .clk_r(clk_r), 
+    .pause(pause), 
+    .start(start), 
+    .ena(ena), 
+    .memory_out1(memory_out1), 
+    .out9(out9)
+    );
+
+
