@@ -1,4 +1,4 @@
 # fpga-image-processing
 Memory is the biggest limiting factor to the widespread use of FPGAs for high-level image processing, which require complete frame(s) to be stored in situ. Since FPGAs have limited on-chip memory capabilities, efficient use of such resources is essential to meet performance, size and power constraints.s. In this project, we investigate allocation of on-chip memory resources in order to minimize resource usage and power consumption, contributing to the realization of power-efficient high-level image processing fully contained on FPGAs. We propose methods for generating memory architectures, from both Hardware Description Languages and High Level Synthesis designs, which minimize memory usage and power consumption. Based on a formalization of on-chip memory configuration options and a power model, we demonstrate how our partitioning algorithms can outperform traditional strategies. Compared to commercial FPGA synthesis and High Level Synthesis tools.
-#Presentation 
+# Presentation 
 https://prezi.com/view/UfN4spd0oyedf6LIpe0p/
